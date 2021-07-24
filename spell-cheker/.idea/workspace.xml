@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8abd3efe-81d7-4999-8819-217da01c064e" name="Default Changelist" comment="" />
+    <list default="true" id="8abd3efe-81d7-4999-8819-217da01c064e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Muhixake Maama - Emakua" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,6 +21,7 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
+          <entry key="Muhixake Maama - Emakua" value="1" />
           <entry key="py" value="3" />
           <entry key="txt" value="8" />
           <entry key="wm-alphabet" value="1" />
@@ -25,7 +29,7 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="PLAIN_TEXT" value="9" />
+          <entry key="PLAIN_TEXT" value="10" />
           <entry key="Python" value="3" />
         </counts>
       </usages-collector>
@@ -49,8 +53,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/spellCheck.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="15" column="31" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="31" />
+            <state relative-caret-position="140">
+              <caret line="19" column="20" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
               <folding>
                 <element signature="e#0#9#0" expanded="true" />
                 <marker date="1627102994032" expanded="true" signature="1216:1219" ph="..." />
@@ -59,11 +63,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/EmakhuwaSpellCheck.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2720">
-              <caret line="136" column="13" selection-start-line="136" selection-start-column="13" selection-end-line="136" selection-end-column="13" />
+            <state relative-caret-position="342">
+              <caret line="158" column="38" selection-start-line="158" selection-start-column="34" selection-end-line="158" selection-end-column="38" />
               <folding>
                 <element signature="e#0#9#0" expanded="true" />
                 <marker date="1627107758935" expanded="true" signature="4262:4264" ph="..." />
@@ -72,11 +76,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/emakhuwa.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="73">
-              <caret line="934" column="38" selection-start-line="934" selection-start-column="33" selection-end-line="934" selection-end-column="38" />
+            <state relative-caret-position="3687">
+              <caret line="47209" column="31" lean-forward="true" selection-start-line="47209" selection-start-column="31" selection-end-line="47209" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Muhixake Maama - Emakua">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1900">
+              <caret line="95" column="4" lean-forward="true" selection-start-line="95" selection-start-column="4" selection-end-line="95" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -93,6 +106,9 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>oopac</find>
+      <find>wana</find>
+      <find>opace</find>
+      <find>opacer</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -115,7 +131,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="699" />
@@ -250,7 +266,8 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.120272316" />
@@ -259,7 +276,7 @@
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
       <window_info anchor="bottom" id="Python Console" weight="0.50491804" />
-      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.60655737" />
+      <window_info anchor="bottom" id="Terminal" weight="0.60655737" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3295082" />
@@ -277,7 +294,7 @@
     </layout>
     <layout-to-restore>
       <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.120272316" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.120272316" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="1" weight="0.60655737" />
@@ -321,10 +338,21 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/EmakhuwaSpellCheck.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="158" column="38" selection-start-line="158" selection-start-column="34" selection-end-line="158" selection-end-column="38" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+            <marker date="1627107758935" expanded="true" signature="4262:4264" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/spellCheck.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="15" column="31" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="31" />
+        <state relative-caret-position="140">
+          <caret line="19" column="20" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
           <folding>
             <element signature="e#0#9#0" expanded="true" />
             <marker date="1627102994032" expanded="true" signature="1216:1219" ph="..." />
@@ -332,21 +360,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/emakhuwa.txt">
+    <entry file="file://$PROJECT_DIR$/Muhixake Maama - Emakua">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="73">
-          <caret line="934" column="38" selection-start-line="934" selection-start-column="33" selection-end-line="934" selection-end-column="38" />
+        <state relative-caret-position="1900">
+          <caret line="95" column="4" lean-forward="true" selection-start-line="95" selection-start-column="4" selection-end-line="95" selection-end-column="4" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/EmakhuwaSpellCheck.py">
+    <entry file="file://$PROJECT_DIR$/emakhuwa.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2720">
-          <caret line="136" column="13" selection-start-line="136" selection-start-column="13" selection-end-line="136" selection-end-column="13" />
-          <folding>
-            <element signature="e#0#9#0" expanded="true" />
-            <marker date="1627107758935" expanded="true" signature="4262:4264" ph="..." />
-          </folding>
+        <state relative-caret-position="3687">
+          <caret line="47209" column="31" lean-forward="true" selection-start-line="47209" selection-start-column="31" selection-end-line="47209" selection-end-column="31" />
         </state>
       </provider>
     </entry>
