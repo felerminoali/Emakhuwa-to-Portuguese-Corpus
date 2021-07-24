@@ -2,14 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8abd3efe-81d7-4999-8819-217da01c064e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Muhixake Maama - Emakua" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EmakhuwaSpellCheck.py" beforeDir="false" afterPath="$PROJECT_DIR$/EmakhuwaSpellCheck.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/emakhuwa.txt" beforeDir="false" afterPath="$PROJECT_DIR$/emakhuwa.txt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/spell_cheker$EmakhuwaSpellCheck.coverage" NAME="EmakhuwaSpellCheck Coverage Results" MODIFIED="1627127106466" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="FUSProjectUsageTrigger">
     <session id="-195685280">
@@ -36,14 +40,14 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="Python Console" value="14" />
-          <entry key="py" value="359" />
+          <entry key="py" value="504" />
           <entry key="wm-alphabet" value="139" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="139" />
-          <entry key="Python" value="373" />
+          <entry key="Python" value="518" />
         </counts>
       </usages-collector>
     </session>
@@ -53,8 +57,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/spellCheck.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="140">
-              <caret line="19" column="20" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
+            <state relative-caret-position="260">
+              <caret line="26" column="6" selection-start-line="26" selection-start-column="6" selection-end-line="26" selection-end-column="25" />
               <folding>
                 <element signature="e#0#9#0" expanded="true" />
                 <marker date="1627102994032" expanded="true" signature="1216:1219" ph="..." />
@@ -63,24 +67,15 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/EmakhuwaSpellCheck.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="158" column="38" selection-start-line="158" selection-start-column="34" selection-end-line="158" selection-end-column="38" />
+            <state relative-caret-position="143">
+              <caret line="133" column="40" lean-forward="true" selection-start-line="131" selection-start-column="8" selection-end-line="133" selection-end-column="40" />
               <folding>
                 <element signature="e#0#9#0" expanded="true" />
-                <marker date="1627107758935" expanded="true" signature="4262:4264" ph="..." />
+                <marker date="1627127464040" expanded="true" signature="4595:4597" ph="..." />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/emakhuwa.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3687">
-              <caret line="47209" column="31" lean-forward="true" selection-start-line="47209" selection-start-column="31" selection-end-line="47209" selection-end-column="31" />
             </state>
           </provider>
         </entry>
@@ -88,8 +83,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Muhixake Maama - Emakua">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1900">
-              <caret line="95" column="4" lean-forward="true" selection-start-line="95" selection-start-column="4" selection-end-line="95" selection-end-column="4" />
+            <state relative-caret-position="240">
+              <caret line="12" column="30" selection-end-line="276" selection-end-column="34" />
             </state>
           </provider>
         </entry>
@@ -109,6 +104,8 @@
       <find>wana</find>
       <find>opace</find>
       <find>opacer</find>
+      <find>word_list</find>
+      <find>printAutoSuggestions</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -270,7 +267,7 @@
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.120272316" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.120272316" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
@@ -338,21 +335,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/EmakhuwaSpellCheck.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="158" column="38" selection-start-line="158" selection-start-column="34" selection-end-line="158" selection-end-column="38" />
-          <folding>
-            <element signature="e#0#9#0" expanded="true" />
-            <marker date="1627107758935" expanded="true" signature="4262:4264" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/spellCheck.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="19" column="20" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
+        <state relative-caret-position="260">
+          <caret line="26" column="6" selection-start-line="26" selection-start-column="6" selection-end-line="26" selection-end-column="25" />
           <folding>
             <element signature="e#0#9#0" expanded="true" />
             <marker date="1627102994032" expanded="true" signature="1216:1219" ph="..." />
@@ -362,8 +348,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Muhixake Maama - Emakua">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1900">
-          <caret line="95" column="4" lean-forward="true" selection-start-line="95" selection-start-column="4" selection-end-line="95" selection-end-column="4" />
+        <state relative-caret-position="240">
+          <caret line="12" column="30" selection-end-line="276" selection-end-column="34" />
         </state>
       </provider>
     </entry>
@@ -371,6 +357,17 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3687">
           <caret line="47209" column="31" lean-forward="true" selection-start-line="47209" selection-start-column="31" selection-end-line="47209" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EmakhuwaSpellCheck.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="143">
+          <caret line="133" column="40" lean-forward="true" selection-start-line="131" selection-start-column="8" selection-end-line="133" selection-end-column="40" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+            <marker date="1627127464040" expanded="true" signature="4595:4597" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>

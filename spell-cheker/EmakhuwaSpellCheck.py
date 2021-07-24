@@ -128,13 +128,23 @@ class Trie():
 
         self.suggestionsRec(node, temp_word)
 
-        for s in self.word_list:
-            print(s)
+        # add infixes too
+        for s in checker.vocabs:
+            if s.find(key) != -1:
+                self.word_list.append(s)
+
+        candidates = sorted([(c, checker.word_probas[c]) for c in self.word_list], key=lambda tup: tup[1], reverse=True)
+        print(candidates)
+        # for s in self.word_list:
+        #     print(s)
+        #     print(checker.word_probas[s])
+
+
         return 1
 
 
 checker = SpellChecker("./emakhuwa.txt")
-word = "osuma"
+word = "opajer"
 spelling_suggestions = checker.check(word)
 print(spelling_suggestions)
 
