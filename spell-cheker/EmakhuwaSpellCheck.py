@@ -203,6 +203,6 @@ if __name__ == '__main__':
                 print("No string found with this prefix\n")
         else:
             print(spelling_suggestions)
-            print(checker.possible_words(word))
-            print(len(checker.word_freq))
-            print(checker.abs_prob(word))
+            # print(checker.possible_words(word))
+            # print(len(checker.word_freq))
+            # print(checker.abs_prob(word))

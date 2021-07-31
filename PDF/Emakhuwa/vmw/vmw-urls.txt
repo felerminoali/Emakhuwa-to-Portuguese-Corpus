@@ -1,0 +1,6 @@
+http://unicode.org/udhr/d/udhr_vmw.html
+http://www.jw.org/vmw/
+http://www.unicode.org/udhr/d/udhr_vmw.xml
+
+http://crubadan.org/languages/vmw
+http://www.language-archives.org/language/vmw
