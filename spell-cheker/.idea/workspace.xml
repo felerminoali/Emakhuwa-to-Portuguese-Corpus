@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8abd3efe-81d7-4999-8819-217da01c064e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../PDF/Emakhuwa/por definir variante/MINAPIYU COOKHALYI.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PDF/Emakhuwa/por definir variante/coockhumelela ca yesu.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PDF/Emakhuwa/por definir variante/malamulo.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PDF/Emakhuwa/por definir variante/muleeliheryo.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spellCheck.py" beforeDir="false" afterPath="$PROJECT_DIR$/spellCheck.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PDF/Nikhunule maitho. Ekartilya 2 by coll. (z-lib.org).pdf" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -24,11 +19,12 @@
         <counts>
           <entry key="project.closed" value="1" />
           <entry key="project.open.time.20" value="1" />
+          <entry key="project.open.time.25" value="1" />
           <entry key="project.open.time.26" value="1" />
           <entry key="project.open.time.29" value="1" />
           <entry key="project.open.time.43" value="1" />
           <entry key="project.open.time.46" value="1" />
-          <entry key="project.opened" value="5" />
+          <entry key="project.opened" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -63,11 +59,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/EmakhuwaSpellCheck.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3620">
-              <caret line="184" column="24" selection-start-line="184" selection-start-column="12" selection-end-line="184" selection-end-column="24" />
+            <state relative-caret-position="920">
+              <caret line="178" column="22" lean-forward="true" selection-start-line="178" selection-start-column="22" selection-end-line="178" selection-end-column="22" />
               <folding>
                 <element signature="e#0#9#0" expanded="true" />
                 <marker date="1627298282754" expanded="true" signature="754:909" ph="..." />
@@ -77,11 +73,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/spellCheck.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="52">
-              <caret line="8" column="14" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
+            <state relative-caret-position="340">
+              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
               <folding>
                 <element signature="e#0#9#0" expanded="true" />
                 <marker date="1629134890886" expanded="true" signature="1369:1374" ph="..." />
@@ -129,9 +125,9 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-967" />
+    <option name="y" value="25" />
     <option name="width" value="699" />
     <option name="height" value="744" />
   </component>
@@ -278,10 +274,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="699" height="744" extended-state="1" />
+    <frame x="-1288" y="-80" width="1296" height="1000" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19248827" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.10275081" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -296,12 +292,12 @@
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Terminal" order="11" weight="0.60655737" />
-      <window_info anchor="bottom" id="Python Console" order="12" visible="true" weight="0.6196721" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.4364896" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="SciView" order="3" />
-      <window_info anchor="right" x="0" y="0" width="295" height="544" id="Documentation" order="4" side_tool="true" visible="true" weight="0.15805946" />
+      <window_info anchor="right" x="0" y="0" width="295" height="544" id="Documentation" order="4" side_tool="true" visible="true" weight="0.08171521" />
       <window_info anchor="right" id="Database" order="5" />
     </layout>
     <layout-to-restore>
@@ -371,25 +367,25 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/EmakhuwaSpellCheck.py">
+    <entry file="file://$PROJECT_DIR$/spellCheck.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3620">
-          <caret line="184" column="24" selection-start-line="184" selection-start-column="12" selection-end-line="184" selection-end-column="24" />
+        <state relative-caret-position="340">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
           <folding>
             <element signature="e#0#9#0" expanded="true" />
-            <marker date="1627298282754" expanded="true" signature="754:909" ph="..." />
-            <marker date="1627298282754" expanded="true" signature="5956:5957" ph="..." />
+            <marker date="1629134890886" expanded="true" signature="1369:1374" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spellCheck.py">
+    <entry file="file://$PROJECT_DIR$/EmakhuwaSpellCheck.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="52">
-          <caret line="8" column="14" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
+        <state relative-caret-position="920">
+          <caret line="178" column="22" lean-forward="true" selection-start-line="178" selection-start-column="22" selection-end-line="178" selection-end-column="22" />
           <folding>
             <element signature="e#0#9#0" expanded="true" />
-            <marker date="1629134890886" expanded="true" signature="1369:1374" ph="..." />
+            <marker date="1627298282754" expanded="true" signature="754:909" ph="..." />
+            <marker date="1627298282754" expanded="true" signature="5956:5957" ph="..." />
           </folding>
         </state>
       </provider>
